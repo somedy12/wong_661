@@ -1,0 +1,6 @@
+LIBRARY TongjianIME
+EXPORTS
+    DllGetClassObject
+    DllCanUnloadNow
+    DllRegisterServer
+    DllUnregisterServer

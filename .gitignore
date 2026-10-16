@@ -1,0 +1,23 @@
+# Visual Studio / CMake build output
+**/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/*.obj
+**/*.tlog/
+**/*.pdb
+**/*.ilk
+**/*.vcxproj
+**/*.vcxproj.filters
+**/*.sln
+**/.vs/
+
+# Downloaded package archives are redundant with the unpacked package sources
+/data/*.tgz
+/data/google-10000-english.txt
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.user
+*.suo
